@@ -1,0 +1,15 @@
+Functionality of priority scheduler:
+3	priority-change
+3	priority-preempt
+
+3	priority-fifo
+0	priority-sema
+0	priority-condvar
+
+0	priority-donate-one
+0	priority-donate-multiple
+0	priority-donate-multiple2
+0	priority-donate-nest
+0	priority-donate-chain
+0	priority-donate-sema
+0	priority-donate-lower

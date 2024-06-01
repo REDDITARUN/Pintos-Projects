@@ -1,0 +1,14 @@
+Functionality of advanced scheduler:
+0	mlfqs-load-1
+0	mlfqs-load-60
+0	mlfqs-load-avg
+
+0	mlfqs-recent-1
+
+0	mlfqs-fair-2
+0	mlfqs-fair-20
+
+0	mlfqs-nice-2
+0	mlfqs-nice-10
+
+0	mlfqs-block
